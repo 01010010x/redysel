@@ -1,0 +1,13 @@
+1.-crear cuenta en paypal
+2.-inicia sesion en https://developer.paypal.com/home/
+3.- ir a panel
+4.-Aplications
+5.-create app
+6.plataform.
+
+"id":"3SP90768BL635012M"
+"href":"https://www.sandbox.paypal.com/checkoutnow?token=3SP90768BL635012M"
+
+
+sb-evbbv14528912@personal.example.com
+)G_Q4fZ&
